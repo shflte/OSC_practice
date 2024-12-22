@@ -1,0 +1,6 @@
+test*
+tmp*
+*.img
+*.elf
+*.o
+.vscode
